@@ -10,6 +10,14 @@ Barcode, küçük ve orta ölçekli işletmeler için geliştirilmiş, barkod ta
 - Kullanıcı Yönetimi: Farklı erişim seviyelerine sahip kullanıcılar oluşturun.
 - Veritabanı Entegrasyonu: Veriler güvenli bir şekilde saklanır ve yönetilir.
 
+👨‍💼 Personel Giriş Bilgileri
+- Kullanıcı adı : user
+- Şifre         : 123321
+
+👨‍💼 Yönetici Giriş Bilgileri
+- Kullanıcı adı : admin
+- Şifre         : 123321
+
 🧰 Kullanılan Teknolojiler
 
 - Frontend: React.js
